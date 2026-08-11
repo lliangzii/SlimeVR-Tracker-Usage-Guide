@@ -372,13 +372,13 @@ SlimeVR Server 基于Java11或更高的版本运行
 可以在[微软官网（点我）](https://developer.microsoft.com/zh-cn/microsoft-edge/webview2/consumer)下载并安装
 
 #### 5.1.5.安装ch340串口驱动
-本方案的Slime追踪器通过CH340X进行<font style="color:rgb(51, 51, 51);">串口数据转换，因此需要对应的串口驱动。</font>
+本方案的Slime追踪器通过CH340X进行串口数据转换，因此需要对应的串口驱动。
 
-<font style="color:rgb(51, 51, 51);">驱动不安装的情况下将：</font>
+驱动不安装的情况下将：
 
-<font style="color:rgb(51, 51, 51);">①无法通过串口重新烧录或更新固件</font>
+①无法通过串口重新烧录或更新固件
 
-<font style="color:rgb(51, 51, 51);">②无法通过串口更改追踪器接入的网络</font>
+②无法通过串口更改追踪器接入的网络
 
 [驱动官方下载（南京沁恒）](https://www.wch.cn/downloads/ch341ser_exe.html)
 
