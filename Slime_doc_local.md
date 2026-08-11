@@ -112,9 +112,7 @@ BNO_085款无需进行校准操作，打开即可使用；
 其他款需要平放在平面上开机，同时保持静止15～20秒，**<font style="color:#DF2A3F;">这一步很重要！校准操作会极大影响追踪效果。</font>**
 
 #### 3.1.2.佩戴方向
-如图，Type-C口朝上朝下均可，但**<font style="color:#DF2A3F;">请保持所有追踪器朝向一致</font>**
-
-<img src="./img/11.png" width="318" title="" crop="0.0593,0.0096,0.9461,1" id="u0c7cffaf" class="ne-image">
+Type-C口朝上朝下均可，但**<font style="color:#DF2A3F;">请保持所有追踪器上下朝向一致</font>**
 
 #### 3.1.3.佩戴位置
 参考官方图片即可：
