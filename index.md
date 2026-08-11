@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: 点击开始
-      link: /Slime_doc
+      link: /Slime_doc_local
     # - theme: alt
     #   text: API Examples
     #   link: /api-examples
