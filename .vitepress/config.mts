@@ -6,6 +6,10 @@ export default defineConfig({
   description: "A VitePress Site",
   base: "/SlimeVR-Tracker-Usage-Guide/",
   themeConfig: {
+    outline: {
+      level: [2, 6],
+      label: 'On this page'
+    },
     // https://vitepress.dev/reference/default-theme-config
     // nav: [
     //   { text: 'Home', link: '/' },

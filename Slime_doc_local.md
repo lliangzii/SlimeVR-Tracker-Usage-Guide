@@ -393,6 +393,8 @@ SlimeVR Server 基于Java11或更高的版本运行
 
 ①官方驱动仓库：[SlimeVR-OpenVR-Driver](https://github.com/SlimeVR/SlimeVR-OpenVR-Driver/releases/)
 
+注：选择稳定版本（Latest） 
+
 <img src="./img/44.png" width="1070.4" title="" crop="0,0,1,1" id="u52794c8e" class="ne-image">
 
 ②打开SteamVR文件夹
