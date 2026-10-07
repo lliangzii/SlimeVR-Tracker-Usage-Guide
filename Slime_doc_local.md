@@ -111,20 +111,40 @@ _<font style="color:#585A5A;">图片无法加载或加载过于缓慢请尝试�
 #### 3.1.1.启动时校准
 BNO_085款无需进行校准操作，打开即可使用；
 
-其他款需要平放在平面上开机，同时保持静止15～20秒，**<font style="color:#DF2A3F;">这一步很重要！校准操作会极大影响追踪效果。</font>**
+其他款需要平放在平面上开机，同时保持静止15～20秒，
+**<font style="color:#DF2A3F;">这一步很重要！校准操作会极大影响追踪效果。</font>**
 
 #### 3.1.2.佩戴方向
-Type-C口朝上朝下均可，但**<font style="color:#DF2A3F;">请保持所有追踪器上下朝向一致</font>**
+Type-C充电口朝上或朝下均可，但 **<font style="color:#DF2A3F;">请务必保持所有追踪器上下朝向一致</font>**
 
-<img src="./img/11.jpg" width="318" title="" crop="0.0593,0.0096,0.9461,1" id="u0c7cffaf" class="ne-image">
+#### 3.1.3.绑带使用说明
+① 如图所示，将绑带的底座放在佩戴部位上
 
-#### 3.1.3.佩戴位置
+<img src="./img/51.jpg" width="300" title="" crop="0,0,1,1" id="brjpP" class="ne-image">
+
+② 通过底座的缺口放入另一端绑带
+
+<img src="./img/52.jpg" width="300" title="" crop="0,0,1,1" id="brjpP" class="ne-image">
+
+③ 此刻，可以通过两侧带扣调节松紧程度
+
+<img src="./img/53.jpg" width="300" title="" crop="0,0,1,1" id="brjpP" class="ne-image">
+
+④ 最后将追踪器安装在底座上
+
+<img src="./img/54.jpg" width="300" title="" crop="0,0,1,1" id="brjpP" class="ne-image">
+
+#### 3.1.4.佩戴位置
 参考官方图片即可：
+
+（注1：六点无手臂、脚部；八点可以选择放在脚背上或放在大臂上）
+
+（注2：选择脚背可以提供额外的脚部运动追踪，选择大臂可以有效防止头显未追踪到手柄时导致的手臂丢追）
 
 <img src="./img/12.png" width="321" title="" crop="0,0,1,1" id="uded5de69" class="ne-image">
 
-#### 3.1.4.注意事项
-佩戴位置应该避开运动时容易受** 肌肉 **或** 衣服 **影响的身体部位，以下是一些例子：
+#### 3.1.5.注意事项
+佩戴位置应该避开：①肌肉运动幅度大的部位；②衣服容易滑动的部位，以下是一些例子：
 
 <img src="./img/13.png" width="150" title="" crop="0,0,1,1" id="u66ff9d6f" class="ne-image"><img src="./img/14.png" width="150" title="" crop="0,0,1,1" id="u1d7996f2" class="ne-image">
 
