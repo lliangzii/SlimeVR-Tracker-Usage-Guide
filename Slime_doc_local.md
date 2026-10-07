@@ -177,6 +177,13 @@ Type-C充电口朝上或朝下均可，但 **<font style="color:#DF2A3F;">请务
 
 <img src="./img/18.png" width="239" title="" crop="0,0,1,1" id="bCm0x" class="ne-image">
 
+注意事项：
+
+假如你在手臂上佩戴了追踪器，记得检查这两项
+
+<img src="./img/55.png" width="500" title="" crop="0,0,1,1" id="bCm0x" class="ne-image">
+
+
 #### 3.2.3.关闭手势控制
 建议关闭手势控制，或仅保留重置航向角。追踪器较为灵敏，容易误触这些动作，这会导致骨架错误地进行重置
 
