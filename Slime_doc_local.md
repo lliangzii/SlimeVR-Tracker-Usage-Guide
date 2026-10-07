@@ -181,7 +181,7 @@ Type-C充电口朝上或朝下均可，但 **<font style="color:#DF2A3F;">请务
 
 假如你在手臂上佩戴了追踪器，记得检查这两项
 
-<img src="./img/55.png" width="500" title="" crop="0,0,1,1" id="bCm0x" class="ne-image">
+<img src="./img/55.png" width="700" title="" crop="0,0,1,1" id="bCm0x" class="ne-image">
 
 
 #### 3.2.3.关闭手势控制
@@ -441,7 +441,7 @@ SlimeVR Server 基于Java11或更高的版本运行
 ### 5.2.通过串口更新追踪器固件（非必需）
 _**<u><font style="color:#585A5A;">一般情况下，无需进行此步骤</font></u>**_
 
-目前SlimeVR官方的ESP固件最新版本为v0.7.2，有更新的版本时可以自行更新
+目前SlimeVR官方的ESP固件最新版本为v0.7.3，有更新的版本时可以自行更新
 
 某些地区可能需要魔法
 
