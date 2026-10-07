@@ -8,7 +8,7 @@ export default defineConfig({
   themeConfig: {
     outline: {
       level: [2, 6],
-      label: 'On this page'
+      label: '目录'
     },
     // https://vitepress.dev/reference/default-theme-config
     // nav: [
